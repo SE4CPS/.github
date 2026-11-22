@@ -54,13 +54,6 @@ service at [releasetrain.io](https://releasetrain.io).
 
 The full list, with papers, slides, posters and data, is on the [lab site](https://se4cps.github.io/lab/research/).
 
-## Teaching
-
-Course repositories (starter code, labs, class projects) are named by year and course,
-for example `2026-COMP-175` (System Administration and Security) and `2026-COMP-051`
-(Introduction to Programming in C++). Slides for every course are on the
-[lab site](https://se4cps.github.io/lab/).
-
 ## Working with us
 
 Students at the University of the Pacific who want to work on releasetrain, IoT or
