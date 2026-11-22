@@ -8,7 +8,7 @@ reports move through the systems that depend on them, and how AI agents can moni
 explain and triage that change without hallucinating. Our work combines software
 engineering, cyber-physical systems and the Internet of Things.
 
-**Lab site:** https://se4cps.github.io/lab/ · **Platform:** https://releasetrain.io
+**Lab site:** https://se4cps.github.io/lab/research · **Platform:** https://releasetrain.io
 
 ## Research areas
 
