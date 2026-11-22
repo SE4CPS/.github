@@ -12,7 +12,8 @@ engineering, cyber-physical systems and the Internet of Things.
 
 ## Research areas
 
-- Agentic software engineering: multi-agent retrieval-augmented pipelines for software-update questions, with guardrails and measurable compliance
+- Agentic software engineering: multi-agent retrieval-augmented pipelines for software-update questions
+- Guardrails for AI agents: goals, deterministic checks and measurable compliance for agentic systems
 - Modeling software ecosystems: versions, dependencies and security updates across products
 - Secure software engineering and IoT security (NIST IR 8259A)
 - Internet of Things: edge AI, sensing, software-defined networking
