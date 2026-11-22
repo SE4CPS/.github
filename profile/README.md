@@ -1,8 +1,3 @@
-# Software Engineering for Cyber-Physical Systems Lab
-
-**University of the Pacific, School of Engineering and Computer Science, Stockton, California.**
-Led by Dr. Solomon Berhe.
-
 We study how software ecosystems change: how updates, vulnerabilities and community
 reports move through the systems that depend on them, and how AI agents can monitor,
 explain and triage that change without hallucinating. Our work combines software
