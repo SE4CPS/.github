@@ -52,6 +52,6 @@ The full list, with papers, slides, posters and data, is on the [lab site](https
 ## Working with us
 
 Students at the University of the Pacific who want to work on releasetrain, IoT or
-agentic software engineering: email sberhe@pacific.edu with the project you are
+agentic software engineering: email sei40e@gmail.com with the project you are
 interested in and the courses you have taken. Issues and pull requests on any
 repository are welcome.
