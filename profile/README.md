@@ -31,9 +31,17 @@ service at [releasetrain.io](https://releasetrain.io).
 | [releasetrain-client](https://github.com/SE4CPS/releasetrain-client) | The web client: feed, least-stable releases, Ask pipeline, admin views |
 | [releasetrain-inventory](https://github.com/SE4CPS/releasetrain-inventory) | CLI that lists a machine's installed software and exports an SBOM (CycloneDX or SPDX); on [PyPI](https://pypi.org/project/releasetrain-inventory/) |
 | [releasetrain-sentiment](https://github.com/SE4CPS/releasetrain-sentiment) | Author-vs-community sentiment divergence in software-update discussions; on [PyPI](https://pypi.org/project/releasetrain-sentiment/) |
-| [releasetrain-triage-bench](https://github.com/SE4CPS/releasetrain-triage-bench) | Reproducible benchmark for guardrail compliance in agentic update triage |
+| [releasetrain-triage-bench](https://github.com/SE4CPS/releasetrain-triage-bench) | Reproducible benchmark for guardrail compliance in agentic update triage; on [PyPI](https://pypi.org/project/releasetrain-triage-bench/) |
 | [releasetrain-pip-package](https://github.com/SE4CPS/releasetrain-pip-package) | Python package and CLI that analyzes a software stack and suggests fixes, with an agent mode |
 | [Research-on-Software-Updates](https://github.com/SE4CPS/Research-on-Software-Updates) | Architecture, data flow and API reference of the platform |
+
+## Python packages on PyPI
+
+| Package | Install | What it does |
+|---|---|---|
+| [releasetrain-inventory](https://pypi.org/project/releasetrain-inventory/) | `pip install releasetrain-inventory` | Lists a machine's installed software and versions, exports an SBOM (CycloneDX or SPDX), optional upload to releasetrain.io |
+| [releasetrain-sentiment](https://pypi.org/project/releasetrain-sentiment/) | `pip install releasetrain-sentiment` | Scores author-vs-community sentiment divergence in Reddit software-update discussions |
+| [releasetrain-triage-bench](https://pypi.org/project/releasetrain-triage-bench/) | `pip install releasetrain-triage-bench` | Benchmark harness for guardrail compliance in agentic software-update triage |
 
 ## Selected publications
 
